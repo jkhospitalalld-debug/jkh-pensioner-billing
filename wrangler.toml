@@ -1,0 +1,8 @@
+name = "jkh-pensioner-billing"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "jkh-pensioner-billing-db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"
