@@ -5,4 +5,4 @@ compatibility_date = "2024-09-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "jkh-pensioner-billing-db"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "d65213fd-5896-4614-bc83-5b4aa4f2639a"
